@@ -1,2 +1,2 @@
 # testrepo
-# This is where I describe the contents of my test repository.
+# Contains projects from my IBM Professional Certificate in Data Science (Coursera)
