@@ -1,2 +1,2 @@
 # testrepo
-# Contains projects from my IBM Professional Certificate in Data Science (Coursera)
+# Contains my recent projects, some of which were made during my IBM Professional Certificate in Data Science
